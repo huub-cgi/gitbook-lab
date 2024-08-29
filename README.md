@@ -6,3 +6,8 @@ Maar dat gaat natuurlijk niet zomaar, daarvoor was wel eerst een nieuwe organisa
 
 Maar de synchronisatie tussen gitbook en github gaat vlekkeloos... Dat had ik niet verwacht!
 
+> [!INFO]
+> Dit is een info call out!
+
+en dit niet meer...
+
