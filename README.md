@@ -6,10 +6,12 @@ Maar dat gaat natuurlijk niet zomaar, daarvoor was wel eerst een nieuwe organisa
 
 Maar de synchronisatie tussen gitbook en github gaat vlekkeloos... Dat had ik niet verwacht!
 
-\{% hint style="warning" %\}
-
+{% hint style="warning" %}
 Dit is een waarschuwing!
-
-\{% endhint %\}
+{% endhint %}
 
 en dit niet meer...
+
+{% hint style="warning" %}
+Maar dit is de **laatste** waarschuwing!
+{% endhint %}
