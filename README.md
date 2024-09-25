@@ -7,7 +7,7 @@ Maar dat gaat natuurlijk niet zomaar, daarvoor was wel eerst een nieuwe organisa
 Maar de synchronisatie tussen gitbook en github gaat vlekkeloos... Dat had ik niet verwacht!
 
 {% hint style="warning" %}
-Dit is een waarschuwing!
+Dit is een waarschuwing! Gitbook sucks. Gebruik iets anders...
 {% endhint %}
 
 en dit niet meer...
