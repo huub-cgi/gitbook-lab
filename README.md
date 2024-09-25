@@ -14,6 +14,18 @@ Maar dat gaat natuurlijk niet zomaar, daarvoor was wel eerst een nieuwe organisa
 
 Maar de synchronisatie tussen gitbook en github gaat vlekkeloos... Dat had ik niet verwacht!
 
+
+
+<details>
+
+<summary>Deze toevoeging hoort bij CR#12</summary>
+
+Uitklappertje!
+
+</details>
+
+
+
 {% hint style="warning" %}
 Dit is een waarschuwing! Gitbook sucks. Gebruik iets anders...
 {% endhint %}
