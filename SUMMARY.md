@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Laboratorium voor obscure operaties](README.md)
+* [Page](README.md)
+* [Laboratorium voor obscure operaties](<README (1).md>)
