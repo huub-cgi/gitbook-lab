@@ -1,6 +1,14 @@
 # Laboratorium voor obscure operaties
 
+Dit is experimenteel toegevoedgde tekst, hoort bij CR#11.
+
 Met Gitbook kan veel maar heel veel ook niet, in dit book zoeken we uit wat er kan en hoe dat meot en waar de grenzen liggen.
+
+
+
+{% hint style="danger" %}
+Een hint! Pas op (CR#11)
+{% endhint %}
 
 Maar dat gaat natuurlijk niet zomaar, daarvoor was wel eerst een nieuwe organisatie voor nodig. Nou ja, het heeft _**een beetje**_ gewerkt.
 
@@ -12,6 +20,6 @@ Dit is een waarschuwing! Gitbook sucks. Gebruik iets anders...
 
 en dit niet meer...
 
-{% hint style="warning" %}
-Maar dit is de **laatste** waarschuwing!
+{% hint style="success" %}
+Dit is gedaan NA de review request!
 {% endhint %}
