@@ -16,8 +16,8 @@ Maar de synchronisatie tussen gitbook en github gaat vlekkeloos... Dat had ik ni
 
 
 
-{% content-ref url="extra-pagina.md" %}
-[extra-pagina.md](extra-pagina.md)
+{% content-ref url="pagina-twee.md" %}
+[pagina-twee.md](pagina-twee.md)
 {% endcontent-ref %}
 
 <details>
