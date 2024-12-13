@@ -1,8 +1,14 @@
-# Pagina 2
+# Extra pagina
 
 Met bijna geen inhoud.
 
 Hoe leuk is dat
+
+
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
 
 
 
