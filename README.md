@@ -14,7 +14,7 @@ Maar dat gaat natuurlijk niet zomaar, daarvoor was wel eerst een nieuwe organisa
 
 Maar de synchronisatie tussen gitbook en github gaat vlekkeloos... Dat had ik niet verwacht!
 
-
+De [volgende pagina](pagina-twee.md) is wellicht interessanter...
 
 {% content-ref url="pagina-twee.md" %}
 [pagina-twee.md](pagina-twee.md)
