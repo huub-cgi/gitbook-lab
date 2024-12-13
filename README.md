@@ -16,6 +16,10 @@ Maar de synchronisatie tussen gitbook en github gaat vlekkeloos... Dat had ik ni
 
 
 
+{% content-ref url="extra-pagina.md" %}
+[extra-pagina.md](extra-pagina.md)
+{% endcontent-ref %}
+
 <details>
 
 <summary>Deze toevoeging hoort bij CR#12</summary>
