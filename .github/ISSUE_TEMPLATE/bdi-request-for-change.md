@@ -2,7 +2,7 @@
 name: BDI Request for Change
 about: The entry point for the BDI RFC process
 title: "[BDI RFC]"
-labels: 1. status:identified, type:rfc
+labels: 1. status:identified
 assignees: huub-cgi
 
 ---

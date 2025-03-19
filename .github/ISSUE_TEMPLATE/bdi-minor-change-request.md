@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-**On which page do you propose an improvement?
+**On which page do you propose an improvement?**
 
-**What kind of improvement do you propose (e.g. spelling, style, clarification)?
+**What kind of improvement do you propose (e.g. spelling, style, clarification)?**
